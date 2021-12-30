@@ -1,0 +1,25 @@
+{
+  "name": "joinus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SofiaRodFer/join-us-simple.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SofiaRodFer/join-us-simple/issues"
+  },
+  "homepage": "https://github.com/SofiaRodFer/join-us-simple#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "faker": "^5.5.3",
+    "mysql": "^2.18.1"
+  }
+}
