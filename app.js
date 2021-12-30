@@ -11,7 +11,6 @@ app.use(express.static(__dirname + '/public'))
 const connection = mysql.createConnection({
     host: 'localhost',
     user: 'root',
-    password: '1234',
     database: 'join_us'
 })
 
